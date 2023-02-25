@@ -9,6 +9,7 @@ I implemented and learned about :
 - Extracting Dynamic parameters  
 - Linking between Pages  
 - Static Side Generation (SSG)  
+- implementing getStaticProps built in function  
 - implementing getServerSideProps built in function
 - Prepearing Paths with getStaticPaths  
 - implementing API routes  
